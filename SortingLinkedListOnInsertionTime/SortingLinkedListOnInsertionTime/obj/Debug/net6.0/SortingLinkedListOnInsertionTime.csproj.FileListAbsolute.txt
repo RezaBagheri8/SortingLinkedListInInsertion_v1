@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\bin\Debug\net6.0\SortingLinkedListOnInsertionTime.exe
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\bin\Debug\net6.0\SortingLinkedListOnInsertionTime.deps.json
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\bin\Debug\net6.0\SortingLinkedListOnInsertionTime.runtimeconfig.json
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\bin\Debug\net6.0\SortingLinkedListOnInsertionTime.dll
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\bin\Debug\net6.0\ref\SortingLinkedListOnInsertionTime.dll
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\bin\Debug\net6.0\SortingLinkedListOnInsertionTime.pdb
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\SortingLinkedListOnInsertionTime.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\SortingLinkedListOnInsertionTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\SortingLinkedListOnInsertionTime.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\SortingLinkedListOnInsertionTime.AssemblyInfo.cs
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\SortingLinkedListOnInsertionTime.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\SortingLinkedListOnInsertionTime.dll
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\ref\SortingLinkedListOnInsertionTime.dll
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\SortingLinkedListOnInsertionTime.pdb
+D:\kia prjc\tamrin\SortingLinkedListOnInsertionTime\SortingLinkedListOnInsertionTime\obj\Debug\net6.0\SortingLinkedListOnInsertionTime.genruntimeconfig.cache
